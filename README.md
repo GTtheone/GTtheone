@@ -1,4 +1,4 @@
-## Hi there 👋
+## GT The One 👋
 
 ![Gustavo Enrique GitHub stats](https://github-readme-stats.vercel.app/api?username=GTtheone&show_icons=true&theme=highcontrast)
 
