@@ -8,4 +8,4 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/debysouza/debysouza/output/github-contribution-grid-snake.svg">
 </picture>
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,python,postgresql,java,html,css&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,python,postgresql,java,html,css,AWS&theme=dark)](https://skillicons.dev)
